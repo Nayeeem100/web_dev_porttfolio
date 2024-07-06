@@ -9,6 +9,20 @@
 .dark_2{
   color: #474747;
 }
+.secondary_background{
+  background-color: #fff8f3;
+}
+.section_title{
+  font-family: "Open Sans";
+  font-size: 35px;
+  font-weight: bold;
+  color: #181818;
+}
+.section_description{
+ font-size: 18px;
+ color: #757575;
+ font-family: "Open Sans";
+}
 /* button style */
 .btn_peimary{
   background-color: #fd6e0a;
@@ -77,4 +91,25 @@ nav li a{
 }
 .banner_pic{
   width: 580px;
+}
+/* main style */
+main{
+  max-width: 1140px;
+  margin: 0 auto;
+}
+/* about style */
+.about{
+  border-radius: 10px;
+  padding: 130px 150px;
+  text-align: center;
+  margin-top: 130px;
+}
+.item_description{
+  font-family: "Open Sans";
+  font-weight: 700;
+}
+.about_items{
+  display: flex;
+  justify-content: space-around;
+  
 }
