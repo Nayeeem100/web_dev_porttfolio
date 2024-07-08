@@ -113,3 +113,39 @@ main{
   justify-content: space-around;
   
 }
+/* what i do style section */
+.wex{
+  margin-top: 80px;
+}
+.what{
+  font-family: "Open Sans";
+  font-size: 40px;
+  text-align: center;
+  
+}
+.experience{
+  font-family: "Open Sans";
+  font-size: 18;
+  color: #757575;
+  text-align: center;
+}
+/* what i do style section end */
+/* main4 style section start */
+.main4{
+  display: flex;
+  gap: 24px;
+  justify-content: space-between;
+  margin: 50px;
+}
+.java {
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06) ;
+  border-radius: 5px;
+  padding: 30px;
+  background-color: white;
+  font-family: "Open Sans";
+  
+}
+.pra{
+  font-weight: 16px;
+  color: #757575;
+}
